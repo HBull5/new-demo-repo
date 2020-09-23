@@ -10,4 +10,8 @@ branch #1
 - [ ] Mop living room
 
 
-    <h1>hello world</h1>
+```js
+function myFunction(param) {
+    console.log(param);
+}
+```
