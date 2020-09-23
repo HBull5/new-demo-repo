@@ -5,6 +5,6 @@ branch #1
 
 ## Chores
 
-- [] Pickup living room
-- [] Vacuum living room
-- [] Mop living room
+- [ ] Pickup living room
+- [ ] Vacuum living room
+- [ ] Mop living room
