@@ -3,5 +3,8 @@ demo description
 
 branch #1
 
+## Chores
 
-- this is some extra stuff from someone else
+- [] Pickup living room
+- [] Vacuum living room
+- [] Mop living room
