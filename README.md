@@ -3,4 +3,4 @@ demo description
 
 branch #1
 
-![race-car](rally.jpg)
+![race-car](img/rally.jpg)
