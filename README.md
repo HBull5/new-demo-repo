@@ -8,5 +8,5 @@
 * this also works
 
 1. numbered
-1. list
-1. item
+2. list
+3. item
