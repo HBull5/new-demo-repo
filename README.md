@@ -5,7 +5,8 @@
 
 - bulleted
 - list
-* this also works
+  - nested list item
+- not nested
 
 1. numbered
 2. list
